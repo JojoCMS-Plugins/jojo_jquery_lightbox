@@ -1,0 +1,2 @@
+<script type="text/javascript" src="external/jquery-lightbox-0.5/js/jquery.lightbox-0.5.min.js"></script>
+<link rel="stylesheet" type="text/css" href="external/jquery-lightbox-0.5/css/jquery.lightbox-0.5.css" media="screen" />
